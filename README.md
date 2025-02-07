@@ -34,9 +34,3 @@ a performant open-source FiveM Client Loader with script encryption.
 ## Contact
 
 our Discord Server: https://discord.gg/WFWHwQWD8K
-## Acknowledgments
-
-here are some credits.
-
-
-- [ardelan869](https://github.com/ardelan869/ragemenu)
