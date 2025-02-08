@@ -1,6 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
+author 'CollinFernandes'
+description 'secured FiveM Client Loader'
+
 shared_scripts {
   'define.lua',
 }
